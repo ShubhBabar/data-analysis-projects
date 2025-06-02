@@ -23,3 +23,14 @@ Analyze monthly and regional sales data to track revenue and profit performance.
 - Data cleaning
 - Dashboard design
 - Data visualization
+
+### 🧮 Skills & Learning Outcomes
+- Mastery of Excel’s advanced data analysis tools and visualization techniques
+- Developed ability to clean and transform raw data into meaningful insights
+- Gained experience in creating interactive, user-centric dashboards
+- Improved storytelling through data to support strategic business decisions
+
+### 🚀 Future Enhancements
+- Integration with real-time data sources for live updates
+- Expand dashboard to include predictive analytics using Excel formulas
+- Develop automated report generation and email distribution
