@@ -1,7 +1,7 @@
 # 📊 Sales Dashboard – Excel Project
 
 ### 🖼️ Dashboard Preview:
-![Sales Dashboard Screenshot](./sales_dashboard_screenshot.png)
+![Sales Dashboard Screenshot](./sales_dashboard_screenshot.jpg)
 
 ---
 
